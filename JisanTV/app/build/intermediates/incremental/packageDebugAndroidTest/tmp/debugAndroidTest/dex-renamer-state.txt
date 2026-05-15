@@ -1,0 +1,10 @@
+#Tue Mar 10 12:26:27 BDT 2026
+base.0=F\:\\Project\\LiveTV\\JisanTV2\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=F\:\\Project\\LiveTV\\JisanTV2\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=F\:\\Project\\LiveTV\\JisanTV2\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\15\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=15/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
